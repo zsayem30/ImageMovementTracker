@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Square 1",
+      "setup": "python3 -m pip install numpy scipy imageio",
+      "run": "python3 test.py 0",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Square 2",
+      "setup": "python3 -m pip install numpy scipy imageio",
+      "run": "python3 test.py 1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Triangle 1",
+      "setup": "python3 -m pip install numpy scipy imageio",
+      "run": "python3 test.py 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Triangle 2",
+      "setup": "python3 -m pip install numpy scipy imageio",
+      "run": "python3 test.py 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
